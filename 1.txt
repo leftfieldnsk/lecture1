@@ -1,3 +1,2 @@
 first line
 Second line from remote repository
-Third line for master
