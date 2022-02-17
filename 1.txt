@@ -1,2 +1,3 @@
 first line
 Second line from remote repository
+Third line for brach_with_conflict
